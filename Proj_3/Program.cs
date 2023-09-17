@@ -72,7 +72,7 @@ if (r=="a"||r=="b"||r=="c"){
                 }
 
 /*----------------------------------------------------------------------------------------*/
-/*Fail safe*/
+/*Fail safe aka Micke säkring*/
 
                 else{
                     Console.WriteLine("Är du dum eller???");
